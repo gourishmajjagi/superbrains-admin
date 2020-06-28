@@ -1,0 +1,13 @@
+{
+  "appId": "www.superbrainshubli.com",
+  "appName": "superbrains-admin",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

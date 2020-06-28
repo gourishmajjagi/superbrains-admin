@@ -1,0 +1,7 @@
+{
+  "name": "superbrains-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
